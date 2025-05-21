@@ -3,9 +3,9 @@ title: Course Syllabus
 body-class: index-page
 ---
 
-## CSE 450 Course Overview
+## SCM 478 Course Overview
 
-Welcome to CSE 450 - Machine Learning
+Welcome to SCM 478 - SCM Analysis & Modeling
 
 ## Course Objectives
 
